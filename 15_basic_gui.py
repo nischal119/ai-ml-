@@ -15,3 +15,4 @@ for row in picture:
         else:
             print("*", end="")
     print("")
+    # thats it
